@@ -104,7 +104,6 @@ Na primeira versão, os cartões do topo mostravam **R$ 219,63** e a tabela de p
 
 ```
 ├── README.md
-├── dashboard-meta-ads.pbix   # arquivo Power BI (dados anonimizados)
 ├── dashboard-meta-ads.pdf    # versão em PDF
 └── dashboard.png
 ```
